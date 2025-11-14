@@ -23,7 +23,7 @@ The project is divided into three main components:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/sa-tech-job-analyzer.git
+    git clone https://github.com/devzwide/sa-tech-job-analyzer.git
     cd sa-tech-job-analyzer
     ```
 
