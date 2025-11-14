@@ -1,0 +1,11 @@
+@api_HostAddress = http://localhost:5236
+
+GET {{api_HostAddress}}/api/jobs/
+Accept: application/json
+
+###
+
+GET {{api_HostAddress}}/api/jobs/Gauteng
+Accept: application/json
+
+###
