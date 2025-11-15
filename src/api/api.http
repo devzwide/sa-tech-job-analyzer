@@ -9,3 +9,7 @@ GET {{api_HostAddress}}/api/jobs/Gauteng
 Accept: application/json
 
 ###
+
+POST {{api_HostAddress}}/api/pipeline/run
+Accept: application/json
+Content-Type: application/json
